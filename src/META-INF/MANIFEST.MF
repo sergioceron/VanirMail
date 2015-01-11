@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Class-Path: commons-beanutils-1.8.3.jar derby.jar hibernate-commons-an
+ notations-4.0.1.Final.jar hibernate-core-4.0.0.Final.jar hsqldb-2.2.5
+ .jar imap.jar javax.persistence.jar jcurses.jar mail.jar mailapi.jar
+ pop3.jar smtp.jar junit-4.10.jar dom4j-1.6.1.jar jboss-logging-3.1.0.CR2.jar jta-1.1.jar commons-collections-3.1.jar javassist-3.12.1.GA.jar antlr-2.7.6.jar logging-1.1.1.jar log4j-1.2.17.jar commons-lang3-3.1.jar
+Main-Class: net.underserver.mail.view.Boot
+

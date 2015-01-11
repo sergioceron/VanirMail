@@ -1,0 +1,15 @@
+<component name="ArtifactManager">
+  <artifact build-on-make="true" name="VanirMail:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/VanirMail_jar</output-path>
+    <root id="root">
+      <element id="archive" name="VanirMail.jar">
+        <element id="directory" name="META-INF">
+          <element id="file-copy" path="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" />
+        </element>
+        <element id="module-output" name="VanirMail" />
+      </element>
+      <element id="library" level="project" name="Libraries" />
+      <element id="file-copy" path="$APPLICATION_HOME_DIR$/lib/junit-4.10.jar" />
+    </root>
+  </artifact>
+</component>

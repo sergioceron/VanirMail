@@ -1,0 +1,10 @@
+----------------------------------------------------------------
+Fri Aug 10 23:50:33 CDT 2012:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.2.2 - (1181258): instance a816c00e-0139-1404-f395-000000de3b20 
+on database directory C:\Users\sergio\IdeaProjects\VanirMail\mail  with class loader sun.misc.Launcher$AppClassLoader@11b86e7 
+Loaded from file:/C:/Users/sergio/IdeaProjects/VanirMail/lib/derby.jar
+java.vendor=Sun Microsystems Inc.
+java.runtime.version=1.6.0_25-b06
+user.dir=C:\Users\sergio\IdeaProjects\VanirMail
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
